@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+      "outDir": "dist",
+      "rootDir": "src",
+      "esModuleInterop": true,
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata": true,
+      "strict": false,
+      "target": "ES2021",
+      "lib": ["es2021"],
+      "moduleResolution": "node",
+      "module": "commonjs"
+    },
+    "include": ["src/**/*"]
+  }
+  
